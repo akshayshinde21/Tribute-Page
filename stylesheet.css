@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  font-family: Times New Roman;
+}
+
+h1{
+  font-size: 50px;
+  background-color: #d3d3d3;
+}
+
+#image{
+  height: 100px;
+  max-width:50%;
+  height: auto;
+}
+#tribute-info{
+  font-size: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#tribute-link{
+  font-size: 25px;
+  color: blue;
+}
